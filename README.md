@@ -18,4 +18,8 @@ python shoe-recognizer.py
 ```
 which will open a window looking similar to the following:
 
-![](/images/examples/example_ui.png?raw=true | width=48)
+<img src="/images/examples/example_ui.png" width="400">
+
+Go ahead and guess yourself: at this moment, the only types of shoes the AI recognizes are *Jimmy Choo*, *Allbirds* and *Manolo Blahnik*. Once you have made your guess, press the *AI Prediction* button to see what the AI predicted as well as the actual answer. Click on "Next Image" to try another shoe:
+
+<img src="/images/examples/example_ui_predicted.png" width="400">
